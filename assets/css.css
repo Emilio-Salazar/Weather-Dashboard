@@ -1,0 +1,23 @@
+* {
+    margin: 0
+}
+.hero {
+    margin : auto;
+    padding: 5px 0px 10px 0px;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    background-color: lightblue;
+    font-size: 44px;
+
+}
+.button {
+    text-decoration:none;
+    font-size: 1.3rem;
+    padding: 6px 5px;
+    margin: 5px 0;
+    color: black;
+    background-color: lightgrey;
+    border: black 1px solid;
+    transform: translate(-1px, -1px);
+}
